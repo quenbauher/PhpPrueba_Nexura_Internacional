@@ -15,7 +15,7 @@ class conexion {
     $this->db = "prueba_tecnica_dev";
     $this->usuario = "root";
     $this->servidor = "localhost";
-    $this->password = ""; 
+    $this->password = "31851873"; 
     
         
     
