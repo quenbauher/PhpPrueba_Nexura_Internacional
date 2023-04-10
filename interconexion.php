@@ -84,7 +84,7 @@ class interConexion extends conexion {
                 
                
                  
-                         header("location: index.php");
+                         header("location: index.html");
           
             }
             
