@@ -14,7 +14,7 @@ $db = "prueba_tecnica_dev";
 
 $usuario = "root";
 $servidor = "localhost";
-$password ="";
+$password ="31851873";
 
 
          /*$id="id";
