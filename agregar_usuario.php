@@ -2,7 +2,7 @@
 
 <?php
 
-include ("interconexion.php");
+include ("interconexion.php");include_once 'conexion.php';
 $id = $_POST['id'];
 $nombre = $_POST['nombre'];
 $email = $_POST['email']; 
