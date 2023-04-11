@@ -13,8 +13,8 @@ class conexion {
     public function conexion (){//metodo constructor
 
     $this->db = "prueba_tecnica_dev";
-    $this->usuario = "root";
-    $this->servidor = "localhost";
+    $this->usuario = "root@localhost";
+    $this->servidor = "127.0.0.1";
     $this->password = "31851873"; 
     
         
