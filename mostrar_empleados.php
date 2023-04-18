@@ -12,8 +12,8 @@ table, th, td {
 <?php
 $db = "prueba_tecnica_dev";
 
-$usuario = "root";
-$servidor = "localhost";
+$usuario = "16928072";
+$servidor = "https://github.com/quenbauher/PhpPrueba_Nexura_Internacional.git";
 $password ="31851873";
 
 
